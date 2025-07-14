@@ -92,7 +92,7 @@ I thrive in agile teams that value collaboration, clean architecture, and produc
   </tbody>
 </table>
 
-- 🔭 I’m currently working on Tachki - E-commerce wensite🌐
+- 🔭 I’m currently working on Tachki - E-commerce website🌐
 - 🌱 I’m currently learning Apache kafka
 - 👯 If looking to collaborate, feel free to Mail or connect through LinkedIn
 - 💬 Ask me about anything related to spring boot backend development
