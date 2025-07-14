@@ -6,7 +6,7 @@ I’m a passionate and impact-driven Backend Developer with nearly 2 years of pr
 - Architecting backend solutions that emphasize clean code, system reliability, and long-term maintainability.
 - Solving complex engineering problems and optimizing performance.<br/>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" style="width: 80%; max-width: 400px;" />
+  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="300" />
 </p>
 
 I thrive in agile teams that value collaboration, clean architecture, and product-focused thinking. With a strong foundation in Java, Spring Boot, and backend engineering principles, I strive to build systems that are technically sound and built to scale.
