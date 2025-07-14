@@ -11,7 +11,7 @@ I’m a passionate and impact-driven Backend Developer with nearly 2 years of pr
 
 I thrive in agile teams that value collaboration, clean architecture, and product-focused thinking. With a strong foundation in Java, Spring Boot, and backend engineering principles, I strive to build systems that are technically sound and built to scale.
 </p>
-<table style="width:100%;">
+<table style="width:100%;" align="center">
   <thead>
     <tr>
       <th style="width:20%;">Category</th>
