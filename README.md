@@ -48,7 +48,7 @@ I thrive in agile teams that value collaboration, clean architecture, and produc
     <tr>
       <td>DevOps</td>
       <td>
-        <img src="https://github.com/user-attachments/assets/36e24a96-2b5a-4c74-b6a8-ed3bf3d94a82" width="50"/>
+        <img src="https://skillicons.dev/icons?i=aws" width="50"/>
         <img src="https://github.com/user-attachments/assets/2ed65b65-ae82-41d1-a5ea-6ddb805f702e" width="50"/>
         <img src="https://github.com/user-attachments/assets/ded8e795-7366-4b47-af25-241e196d456f" width="50"/>
         <img src="https://github.com/user-attachments/assets/49d9a67c-9110-4e97-b775-78d03d6384cd" width="50"/>
@@ -63,7 +63,7 @@ I thrive in agile teams that value collaboration, clean architecture, and produc
     <tr>
       <td>Tools & Utilities</td>
       <td>
-        <img src="https://github.com/user-attachments/assets/5962d4c8-bc0a-486a-b205-311e12339a08" width="50"/>
+        <img src="https://skillicons.dev/icons?i=github" width="50"/>
         <img src="https://github.com/user-attachments/assets/d4111132-dd24-42cc-9357-805ed11decc1" width="50"/>
         <img src="https://avatars.githubusercontent.com/u/45949248?s=200&v=4" width="50"/>
         <img src="https://github.com/user-attachments/assets/a2fc687d-5312-487b-9cb0-c58b2974673e" width="50"/>
