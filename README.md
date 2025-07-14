@@ -63,6 +63,7 @@ I thrive in agile teams that value collaboration, clean architecture, and produc
     <tr>
       <td>Tools & Utilities</td>
       <td>
+        <img src="https://skillicons.dev/icons?i=git" width="50"/>
         <img src="https://skillicons.dev/icons?i=github" width="50"/>
         <img src="https://github.com/user-attachments/assets/d4111132-dd24-42cc-9357-805ed11decc1" width="50"/>
         <img src="https://avatars.githubusercontent.com/u/45949248?s=200&v=4" width="50"/>
