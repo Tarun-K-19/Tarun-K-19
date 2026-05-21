@@ -30,7 +30,7 @@ I thrive in agile teams that value collaboration, clean architecture, and produc
         <img src="https://github.com/user-attachments/assets/bc965ea1-95bf-4f73-9645-5557118e394c" width="50"/>
         <img src="https://github.com/user-attachments/assets/59bffe3f-f73f-453b-b60d-309edcc4c7ea" width="50"/>
         <img src="https://github.com/user-attachments/assets/946b53d4-74a5-4de2-8100-fc3a50d00f4f" width="50"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/1200px-WebSocket_colored_logo.svg.png" width="50"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/250px-WebSocket_colored_logo.svg.png" width="50"/>
         <img src="https://github.com/user-attachments/assets/f6e91e04-3963-4f7d-93b2-24219fe097a9" width="50"/>
       </td>
     </tr>
