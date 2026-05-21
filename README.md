@@ -99,8 +99,8 @@ I thrive in agile teams that value collaboration, clean architecture, and produc
 <p>📫 <strong>Contact me:</strong></p>
 
 <a href="mailto:tarunk1806@gmail.com">
-  <img src="https://github.com/user-attachments/assets/d8d79c16-0bae-4da4-a995-2d8103543c4b" width="30" alt="Gmail" />
-</a>|
+  <img src="https://github.com/user-attachments/assets/d8d79c16-0bae-4da4-a995-2d8103543c4b" width="40" alt="Gmail" />
+</a>
 <a href="https://www.linkedin.com/in/tarun-k-19072002tck/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/3874a814-040e-436a-9db8-496851ce0807" width="30" alt="LinkedIn" />
+  <img src="https://github.com/user-attachments/assets/3874a814-040e-436a-9db8-496851ce0807" width="40" alt="LinkedIn" />
 </a>
