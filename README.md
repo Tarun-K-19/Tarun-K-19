@@ -1,106 +1,78 @@
-## Hey👋, I'm Tarun!
+# Hey 👋, I'm Tarun K!
 
-I’m a passionate and impact-driven Backend Developer with nearly 2 years of professional experience building scalable, secure, and maintainable backend systems across diverse domains including ERP, healthcare, and real-time platforms.<br/>
-### My expertise lies in:
-- Designing robust RESTful APIs and modular microservices.
-- Architecting backend solutions that emphasize clean code, system reliability, and long-term maintainability.
-- Solving complex engineering problems and optimizing performance.<br/><br/>
+**Backend Developer | Kotlin | Java | Spring Boot**
 
-I thrive in agile teams that value collaboration, clean architecture, and product-focused thinking. With a strong foundation in Java, Spring Boot, and backend engineering principles, I strive to build systems that are technically sound and built to scale.
-</p>
-<table style="width:100%;" align="center">
-  <thead>
-    <tr>
-      <th style="width:20%;">Category</th>
-      <th style="width:20%;">Tech stacks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Programming Languages</td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/3b47e07e-43bf-4350-9707-ef921bdd1847" width="50"/>
-        <img src="https://github.com/user-attachments/assets/6b2a5338-47cf-4a36-be36-c601cfb0fb10" width="50"/>
-      </td>
-    </tr>
-    <tr>
-      <td>Frameworks & Libraries</td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/b7b4ea7d-fc88-498e-9023-7d607493eefb" width="50"/>
-        <img src="https://github.com/user-attachments/assets/bc965ea1-95bf-4f73-9645-5557118e394c" width="50"/>
-        <img src="https://github.com/user-attachments/assets/59bffe3f-f73f-453b-b60d-309edcc4c7ea" width="50"/>
-        <img src="https://github.com/user-attachments/assets/946b53d4-74a5-4de2-8100-fc3a50d00f4f" width="50"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/250px-WebSocket_colored_logo.svg.png" width="50"/>
-        <img src="https://github.com/user-attachments/assets/f6e91e04-3963-4f7d-93b2-24219fe097a9" width="50"/>
-      </td>
-    </tr>
-    <tr>
-      <td>Databases & Caching</td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/8add976b-f22f-45bc-8c0e-66a59cd4dcb8" width="50"/>
-        <img src="https://github.com/user-attachments/assets/fdd2099a-2f9d-46c3-a466-636e029430ba" width="50"/>
-        <img src="https://github.com/user-attachments/assets/fd8c8962-27e7-4c7b-a586-b99fc5860e3b" width="50"/>
-      </td>
-    </tr>
-    <tr>
-      <td>DevOps</td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=aws" width="50"/>
-        <img src="https://github.com/user-attachments/assets/2ed65b65-ae82-41d1-a5ea-6ddb805f702e" width="50"/>
-        <img src="https://github.com/user-attachments/assets/ded8e795-7366-4b47-af25-241e196d456f" width="50"/>
-        <img src="https://github.com/user-attachments/assets/49d9a67c-9110-4e97-b775-78d03d6384cd" width="50"/>
-        <img src="https://github.com/user-attachments/assets/7335c886-1b5f-4879-8ee2-b253d785f3f9" width="50"/>
-        <img src="https://github.com/user-attachments/assets/9eb5ca95-13ff-4e04-a57e-a33d6e969123" width="50"/>
-        <img src="https://github.com/user-attachments/assets/0fdff4e3-82b4-4538-b1f6-31efe224cebb" width="50"/>
-        <img src="https://github.com/user-attachments/assets/e9b2313c-f848-4c68-9bb4-0a937445e788" width="50"/>
-        <img src="https://github.com/user-attachments/assets/0bee4c02-774d-46d8-b873-80dabf4f3121" width="50"/>
-        <img src="https://github.com/user-attachments/assets/16f02d93-55b7-4cbb-9dbb-926ca52bcfcf" width="50"/>
-      </td>
-    </tr>
-    <tr>
-      <td>Tools & Utilities</td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=git" width="50"/>
-        <img src="https://skillicons.dev/icons?i=github" width="50"/>
-        <img src="https://github.com/user-attachments/assets/d4111132-dd24-42cc-9357-805ed11decc1" width="50"/>
-        <img src="https://avatars.githubusercontent.com/u/45949248?s=200&v=4" width="50"/>
-        <img src="https://github.com/user-attachments/assets/a2fc687d-5312-487b-9cb0-c58b2974673e" width="50"/>
-        <img src="https://github.com/user-attachments/assets/e33ebca9-76d7-489d-b37d-a3255628e14c" width="50"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/SLF4J_Logo.png" width="50"/>
-      </td>
-    </tr>
-    <tr>
-      <td>Frontend</td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/c539a56a-b50d-4979-ac1c-485591209bf5" width="50"/>
-        <img src="https://github.com/user-attachments/assets/12b3be46-15d6-4949-ae2a-30547de12dfe" width="50"/>
-        <img src="https://github.com/user-attachments/assets/469c528f-e38b-4810-8a68-9d2a0af3d948" width="50"/>
-        <img src="https://github.com/user-attachments/assets/d0787cd5-8f77-45d6-9b64-88b624c61cb7" width="50"/>
-      </td>
-    </tr>
-    <tr>
-      <td>Others</td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/7e9823e4-b2da-4dba-b471-d0786e941eea" width="50"/>
-        <img src="https://github.com/user-attachments/assets/b59319b1-eb34-487b-abdb-8bbf295fff16" width="50"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/DSA_Logo.png" width="50"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
+Backend Developer with 2+ years of experience building scalable, secure, and maintainable backend systems across academic ERP and healthcare domains.
 
-- 🔭 I’m currently working on Security Package for Backend Services
-- 🌱 I’m currently learning Apache kafka
-- 👯 If looking to collaborate, feel free to mail or connect through linkedIn
-- 💬 Ask me about anything related to spring boot backend development
-- 📄 Feel free to check [My Resume](https://drive.google.com/file/d/1VlJszwNeS2GN7DVQyU7P4iwH_aVDVNEI/view)
+Currently working at the **Institute Automation Cell, IIT Palakkad**, developing academic ERP and research management systems. Experienced in REST API development, authentication and authorization, reactive programming, and serverless architectures.
 
+### 💻 Technical Skills
 
-<p>📫 <strong>Contact me:</strong></p>
+| Category      | Technologies                                                          |
+| ------------- | --------------------------------------------------------------------- |
+| **Languages** | Kotlin, Java, Python, JavaScript                                      |
+| **Backend**   | Spring Boot, Spring Security, Spring Data JPA, REST APIs, WebSockets  |
+| **Databases** | MongoDB, MySQL, Redis                                                 |
+| **Security**  | JWT, Keycloak, Authentication & Authorization, RBAC                   |
+| **Cloud**     | AWS Lambda, RDS, S3, SNS, Cognito, AppSync, IAM, Textract, CloudWatch |
+| **Tools**     | Git, Swagger, Liquibase, Caffeine, SLF4J                              |
 
-<a href="mailto:tarunk1806@gmail.com">
-  <img src="https://github.com/user-attachments/assets/d8d79c16-0bae-4da4-a995-2d8103543c4b" width="40" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/tarun-k-19072002tck/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/3874a814-040e-436a-9db8-496851ce0807" width="40" alt="LinkedIn" />
-</a>
+### 💼 Professional Experience
+
+**Backend Developer | Institute Automation Cell, IIT Palakkad**
+*Jan 2025 – Present*
+
+* Developed Kotlin and Spring Boot REST APIs for academic ERP modules, supporting 1,500+ users.
+* Designed MongoDB data models and validation workflows, improving validation accuracy by 60%.
+* Led requirement analysis and API documentation for AcadResearch, covering research applications, guideship allocation, thesis lifecycle, and document workflows for 450+ scholars.
+* Adapted to reactive backend development and implemented authentication and authorization for role-based academic ERP operations.
+
+**Software Engineer Intern | Careait Health Services Pvt. Ltd.**
+*Aug 2024 – Jan 2025*
+
+* Developed serverless GraphQL APIs using JavaScript, AWS Lambda, AppSync, and RDS for four mobile applications and a company portal serving 3,000+ healthcare users.
+* Integrated AWS SNS, Cognito, S3, and CloudWatch, implementing RBAC, push notifications with deep linking, and automated workflows that reduced manual effort by approximately 50%.
+* Built an OpenAI GPT-4 chatbot with function calling, reducing customer query load by 30%, and developed AWS Textract-based automation workflows.
+
+**Software Engineer | IIHCUS Technology LLP**
+*Sep 2023 – Mar 2024*
+
+* Developed Java and Spring Boot REST APIs with Keycloak and JWT-based role-based access control for 2,500+ users.
+* Built an Excel bulk-upload system, improving onboarding speed by 60%.
+* Implemented soft-delete across 4+ entities, managed Liquibase migrations, and published Swagger API documentation, reducing deployment issues by 40%.
+* Mentored an intern in modular API design and development practices, contributing to a 35% improvement in team delivery efficiency.
+
+### 🚀 Projects
+
+**SecureCore**
+*Spring Boot Security Starter · In Development*
+
+Developing a reusable Spring Boot security starter with configurable authentication, authorization, and RBAC for both reactive and blocking application architectures.
+
+**Key features**
+
+* JWT authentication and refresh token handling
+* Customizable security filters
+* Standardized exception handling
+* Extensible permission management
+* Auto-configuration and developer-friendly security annotations
+
+**Technologies:** Java, Spring Boot, Spring Security, Spring WebFlux, JWT, Redis, PostgreSQL, Gradle
+
+### 🎓 Education
+
+**B.E. in Information Science and Engineering**
+Channabasaveshwara Institute of Technology, Tumakuru
+CGPA: 7.80 | May 2024
+
+### 📫 Connect with Me
+
+* **Email:** [tarunk1806@gmail.com](mailto:tarunk1806@gmail.com)
+* **LinkedIn:** [Tarun K](https://www.linkedin.com/in/tarun-k-19072002tck/)
+* **Portfolio:** [tarun-k-19.vercel.app](https://tarun-k-19.vercel.app)
+* **GitHub:** [Tarun-K-19](https://github.com/Tarun-K-19)
+* **Resume:** [View My Resume](https://drive.google.com/file/d/1VlJszwNeS2GN7DVQyU7P4iwH_aVDVNEI/view)
+
+---
+
+💡 *Interested in backend architecture, application security, reactive programming, and building scalable systems.*
