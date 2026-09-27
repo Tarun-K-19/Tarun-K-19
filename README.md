@@ -71,7 +71,7 @@ CGPA: 7.80 | May 2024
 * **LinkedIn:** [Tarun K](https://www.linkedin.com/in/tarun-k-19072002tck/)
 * **Portfolio:** [tarun-k-19.vercel.app](https://tarun-k-19.vercel.app)
 * **GitHub:** [Tarun-K-19](https://github.com/Tarun-K-19)
-* **Resume:** [View My Resume](https://drive.google.com/file/d/1VlJszwNeS2GN7DVQyU7P4iwH_aVDVNEI/view)
+* **Resume:** [View My Resume](https://drive.google.com/file/d/1R5bMnQgKSwrPyTfrvM1yR2UbrSsoH84s/view)
 
 ---
 
